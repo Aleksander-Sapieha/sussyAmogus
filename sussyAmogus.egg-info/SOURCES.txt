@@ -1,0 +1,7 @@
+LICENSE.txt
+setup.py
+sussyAmogus/__init__.py
+sussyAmogus.egg-info/PKG-INFO
+sussyAmogus.egg-info/SOURCES.txt
+sussyAmogus.egg-info/dependency_links.txt
+sussyAmogus.egg-info/top_level.txt
